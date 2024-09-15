@@ -1,0 +1,15 @@
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\bin\Debug\net8.0\mis-221-lab-3-2nd-link-ltadams0311.exe
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\bin\Debug\net8.0\mis-221-lab-3-2nd-link-ltadams0311.deps.json
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\bin\Debug\net8.0\mis-221-lab-3-2nd-link-ltadams0311.runtimeconfig.json
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\bin\Debug\net8.0\mis-221-lab-3-2nd-link-ltadams0311.dll
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\bin\Debug\net8.0\mis-221-lab-3-2nd-link-ltadams0311.pdb
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\obj\Debug\net8.0\mis-221-lab-3-2nd-link-ltadams0311.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\obj\Debug\net8.0\mis-221-lab-3-2nd-link-ltadams0311.AssemblyInfoInputs.cache
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\obj\Debug\net8.0\mis-221-lab-3-2nd-link-ltadams0311.AssemblyInfo.cs
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\obj\Debug\net8.0\mis-221-lab-3-2nd-link-ltadams0311.csproj.CoreCompileInputs.cache
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\obj\Debug\net8.0\mis-221-lab-3-2nd-link-ltadams0311.sourcelink.json
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\obj\Debug\net8.0\mis-221-lab-3-2nd-link-ltadams0311.dll
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\obj\Debug\net8.0\refint\mis-221-lab-3-2nd-link-ltadams0311.dll
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\obj\Debug\net8.0\mis-221-lab-3-2nd-link-ltadams0311.pdb
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\obj\Debug\net8.0\mis-221-lab-3-2nd-link-ltadams0311.genruntimeconfig.cache
+C:\Users\bamal\OneDrive\Desktop\MIS 221\mis-221-lab-3-2nd-link-ltadams0311\obj\Debug\net8.0\ref\mis-221-lab-3-2nd-link-ltadams0311.dll
